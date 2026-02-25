@@ -1,0 +1,14 @@
+# Model file (format dari presentasi Programmer's View)
+v 5 e 5
+# Vertices:
+0.0000 5.0000
+-4.7553 1.5451
+-2.9389 -4.0451
+2.9389 -4.0451
+4.7553 1.5451
+# Edges (connectivity):
+1 2
+2 3
+3 4
+4 5
+5 1
